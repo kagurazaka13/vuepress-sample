@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'MDCアドベントカレンダー',
+  title: '教育資料メモ',
   themeConfig: {
     sidebar: [
       '/',
